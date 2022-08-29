@@ -1,11 +1,20 @@
-.App {
-  text-align: center;
-}
-
 .container-fluid {
   max-width: 950px;
 }
 
 .travelImg {
   height: 100%;
+}
+
+.locationProp {
+  letter-spacing: 3px;
+
+}
+
+.svg {
+  width: 10vmin;
+}
+
+.navContent {
+  max-width: 50%;
 }
