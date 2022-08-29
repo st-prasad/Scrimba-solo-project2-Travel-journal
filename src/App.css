@@ -2,8 +2,8 @@
   text-align: center;
 }
 
-.container {
-  max-width: 700px;
+.container-fluid {
+  max-width: 950px;
 }
 
 .travelImg {
