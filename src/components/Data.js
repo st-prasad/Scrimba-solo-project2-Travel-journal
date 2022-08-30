@@ -1,6 +1,6 @@
-import img1 from "../Images/30728874_1683046501810535_5490440566321709056_n.jpg"
-import img2 from "../Images/IMG_20160424_121729.jpg"
-import img3 from "../Images/LS_Horton-.jpg"
+import img1 from "./Images/30728874_1683046501810535_5490440566321709056_n.jpg"
+import img2 from "./Images/IMG_20160424_121729.jpg"
+import img3 from "./Images/LS_Horton-.jpg"
 
 // https://stackoverflow.com/questions/68783347/eslint-warning-assign-arrow-function-to-a-variable-before-exporting-as-module
 

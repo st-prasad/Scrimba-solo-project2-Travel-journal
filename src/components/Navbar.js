@@ -1,5 +1,5 @@
 import React from 'react'
-import { ReactComponent as GlobeSvg } from '../Images/environment-icon.svg';
+import { ReactComponent as GlobeSvg } from './Images/environment-icon.svg';
 
 
 
